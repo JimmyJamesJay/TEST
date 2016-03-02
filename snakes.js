@@ -3280,14 +3280,14 @@ Snakes = function() {
     ],
 
     highscores: [
-      { name: "amy",        score:  3000 }, 
-      { name: "jake",       score:  2500 },
-      { name: "ritchie",    score:  2000 },
-      { name: "eddie",      score:  1500 },
-      { name: "code",       score:  1000 },
-      { name: "incomplete", score:   500 },
-      { name: "liquid",     score:   250 },
-      { name: "planner",    score:   100 }
+      { name: "mona",        score:  3000 }, 
+      { name: "øystein",       score:  2500 },
+      { name: "arne-morten",    score:  2000 },
+      { name: "trond",      score:  1500 },
+      { name: "morten",       score:  1000 },
+      { name: "lidvar", score:   500 },
+      { name: "kjell rune",     score:   250 },
+      { name: "sandy",    score:   100 }
     ],
 
     colors: {
